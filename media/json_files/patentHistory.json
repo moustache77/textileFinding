@@ -1,0 +1,1856 @@
+[
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012005",
+    "YYYYMM": "200501",
+    "YYYY_MM_DD": "2005-01-01",
+    "applications": 4594,
+    "publications": 5172
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022005",
+    "YYYYMM": "200502",
+    "YYYY_MM_DD": "2005-02-01",
+    "applications": 5119,
+    "publications": 5000
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032005",
+    "YYYYMM": "200503",
+    "YYYY_MM_DD": "2005-03-01",
+    "applications": 6958,
+    "publications": 6023
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042005",
+    "YYYYMM": "200504",
+    "YYYY_MM_DD": "2005-04-01",
+    "applications": 5713,
+    "publications": 5282
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052005",
+    "YYYYMM": "200505",
+    "YYYY_MM_DD": "2005-05-01",
+    "applications": 5494,
+    "publications": 5064
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062005",
+    "YYYYMM": "200506",
+    "YYYY_MM_DD": "2005-06-01",
+    "applications": 6582,
+    "publications": 6412
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072005",
+    "YYYYMM": "200507",
+    "YYYY_MM_DD": "2005-07-01",
+    "applications": 5259,
+    "publications": 5183
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082005",
+    "YYYYMM": "200508",
+    "YYYY_MM_DD": "2005-08-01",
+    "applications": 5197,
+    "publications": 5563
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092005",
+    "YYYYMM": "200509",
+    "YYYY_MM_DD": "2005-09-01",
+    "applications": 5506,
+    "publications": 5916
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102005",
+    "YYYYMM": "200510",
+    "YYYY_MM_DD": "2005-10-01",
+    "applications": 5284,
+    "publications": 5310
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112005",
+    "YYYYMM": "200511",
+    "YYYY_MM_DD": "2005-11-01",
+    "applications": 6028,
+    "publications": 5186
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122005",
+    "YYYYMM": "200512",
+    "YYYY_MM_DD": "2005-12-01",
+    "applications": 7298,
+    "publications": 5734
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012006",
+    "YYYYMM": "200601",
+    "YYYY_MM_DD": "2006-01-01",
+    "applications": 4210,
+    "publications": 5308
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022006",
+    "YYYYMM": "200602",
+    "YYYY_MM_DD": "2006-02-01",
+    "applications": 4983,
+    "publications": 4957
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032006",
+    "YYYYMM": "200603",
+    "YYYY_MM_DD": "2006-03-01",
+    "applications": 6741,
+    "publications": 6020
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042006",
+    "YYYYMM": "200604",
+    "YYYY_MM_DD": "2006-04-01",
+    "applications": 5309,
+    "publications": 4921
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052006",
+    "YYYYMM": "200605",
+    "YYYY_MM_DD": "2006-05-01",
+    "applications": 5669,
+    "publications": 5826
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062006",
+    "YYYYMM": "200606",
+    "YYYY_MM_DD": "2006-06-01",
+    "applications": 6575,
+    "publications": 6161
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072006",
+    "YYYYMM": "200607",
+    "YYYY_MM_DD": "2006-07-01",
+    "applications": 5021,
+    "publications": 5516
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082006",
+    "YYYYMM": "200608",
+    "YYYY_MM_DD": "2006-08-01",
+    "applications": 4789,
+    "publications": 6462
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092006",
+    "YYYYMM": "200609",
+    "YYYY_MM_DD": "2006-09-01",
+    "applications": 5621,
+    "publications": 5311
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102006",
+    "YYYYMM": "200610",
+    "YYYY_MM_DD": "2006-10-01",
+    "applications": 5204,
+    "publications": 5260
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112006",
+    "YYYYMM": "200611",
+    "YYYY_MM_DD": "2006-11-01",
+    "applications": 5633,
+    "publications": 6143
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122006",
+    "YYYYMM": "200612",
+    "YYYY_MM_DD": "2006-12-01",
+    "applications": 6606,
+    "publications": 5451
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012007",
+    "YYYYMM": "200701",
+    "YYYY_MM_DD": "2007-01-01",
+    "applications": 4829,
+    "publications": 5832
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022007",
+    "YYYYMM": "200702",
+    "YYYY_MM_DD": "2007-02-01",
+    "applications": 4789,
+    "publications": 4981
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032007",
+    "YYYYMM": "200703",
+    "YYYY_MM_DD": "2007-03-01",
+    "applications": 6297,
+    "publications": 5959
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042007",
+    "YYYYMM": "200704",
+    "YYYY_MM_DD": "2007-04-01",
+    "applications": 5174,
+    "publications": 5411
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052007",
+    "YYYYMM": "200705",
+    "YYYY_MM_DD": "2007-05-01",
+    "applications": 5332,
+    "publications": 5930
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062007",
+    "YYYYMM": "200706",
+    "YYYY_MM_DD": "2007-06-01",
+    "applications": 5774,
+    "publications": 5724
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072007",
+    "YYYYMM": "200707",
+    "YYYY_MM_DD": "2007-07-01",
+    "applications": 5118,
+    "publications": 5556
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082007",
+    "YYYYMM": "200708",
+    "YYYY_MM_DD": "2007-08-01",
+    "applications": 5447,
+    "publications": 6944
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092007",
+    "YYYYMM": "200709",
+    "YYYY_MM_DD": "2007-09-01",
+    "applications": 5488,
+    "publications": 5124
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102007",
+    "YYYYMM": "200710",
+    "YYYY_MM_DD": "2007-10-01",
+    "applications": 6070,
+    "publications": 5881
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112007",
+    "YYYYMM": "200711",
+    "YYYY_MM_DD": "2007-11-01",
+    "applications": 5972,
+    "publications": 5859
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122007",
+    "YYYYMM": "200712",
+    "YYYY_MM_DD": "2007-12-01",
+    "applications": 6544,
+    "publications": 5078
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012008",
+    "YYYYMM": "200801",
+    "YYYY_MM_DD": "2008-01-01",
+    "applications": 4849,
+    "publications": 5769
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022008",
+    "YYYYMM": "200802",
+    "YYYY_MM_DD": "2008-02-01",
+    "applications": 4977,
+    "publications": 4999
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032008",
+    "YYYYMM": "200803",
+    "YYYY_MM_DD": "2008-03-01",
+    "applications": 5830,
+    "publications": 5209
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042008",
+    "YYYYMM": "200804",
+    "YYYY_MM_DD": "2008-04-01",
+    "applications": 5465,
+    "publications": 5545
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052008",
+    "YYYYMM": "200805",
+    "YYYY_MM_DD": "2008-05-01",
+    "applications": 5811,
+    "publications": 5507
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062008",
+    "YYYYMM": "200806",
+    "YYYY_MM_DD": "2008-06-01",
+    "applications": 5655,
+    "publications": 5424
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072008",
+    "YYYYMM": "200807",
+    "YYYY_MM_DD": "2008-07-01",
+    "applications": 6213,
+    "publications": 6399
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082008",
+    "YYYYMM": "200808",
+    "YYYY_MM_DD": "2008-08-01",
+    "applications": 5396,
+    "publications": 5411
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092008",
+    "YYYYMM": "200809",
+    "YYYY_MM_DD": "2008-09-01",
+    "applications": 5894,
+    "publications": 5097
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102008",
+    "YYYYMM": "200810",
+    "YYYY_MM_DD": "2008-10-01",
+    "applications": 5931,
+    "publications": 6295
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112008",
+    "YYYYMM": "200811",
+    "YYYY_MM_DD": "2008-11-01",
+    "applications": 5869,
+    "publications": 5393
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122008",
+    "YYYYMM": "200812",
+    "YYYY_MM_DD": "2008-12-01",
+    "applications": 7327,
+    "publications": 5989
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012009",
+    "YYYYMM": "200901",
+    "YYYY_MM_DD": "2009-01-01",
+    "applications": 3990,
+    "publications": 5310
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022009",
+    "YYYYMM": "200902",
+    "YYYY_MM_DD": "2009-02-01",
+    "applications": 4403,
+    "publications": 4740
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032009",
+    "YYYYMM": "200903",
+    "YYYY_MM_DD": "2009-03-01",
+    "applications": 6426,
+    "publications": 5870
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042009",
+    "YYYYMM": "200904",
+    "YYYY_MM_DD": "2009-04-01",
+    "applications": 5694,
+    "publications": 6163
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052009",
+    "YYYYMM": "200905",
+    "YYYY_MM_DD": "2009-05-01",
+    "applications": 4814,
+    "publications": 5357
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062009",
+    "YYYYMM": "200906",
+    "YYYY_MM_DD": "2009-06-01",
+    "applications": 5820,
+    "publications": 5318
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072009",
+    "YYYYMM": "200907",
+    "YYYY_MM_DD": "2009-07-01",
+    "applications": 5623,
+    "publications": 6064
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082009",
+    "YYYYMM": "200908",
+    "YYYY_MM_DD": "2009-08-01",
+    "applications": 5084,
+    "publications": 5051
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092009",
+    "YYYYMM": "200909",
+    "YYYY_MM_DD": "2009-09-01",
+    "applications": 6073,
+    "publications": 5574
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102009",
+    "YYYYMM": "200910",
+    "YYYY_MM_DD": "2009-10-01",
+    "applications": 5537,
+    "publications": 5584
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112009",
+    "YYYYMM": "200911",
+    "YYYY_MM_DD": "2009-11-01",
+    "applications": 5790,
+    "publications": 5179
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122009",
+    "YYYYMM": "200912",
+    "YYYY_MM_DD": "2009-12-01",
+    "applications": 8262,
+    "publications": 6239
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012010",
+    "YYYYMM": "201001",
+    "YYYY_MM_DD": "2010-01-01",
+    "applications": 4444,
+    "publications": 5023
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022010",
+    "YYYYMM": "201002",
+    "YYYY_MM_DD": "2010-02-01",
+    "applications": 4727,
+    "publications": 5099
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032010",
+    "YYYYMM": "201003",
+    "YYYY_MM_DD": "2010-03-01",
+    "applications": 6077,
+    "publications": 6281
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042010",
+    "YYYYMM": "201004",
+    "YYYY_MM_DD": "2010-04-01",
+    "applications": 5492,
+    "publications": 5320
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052010",
+    "YYYYMM": "201005",
+    "YYYY_MM_DD": "2010-05-01",
+    "applications": 5654,
+    "publications": 6112
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062010",
+    "YYYYMM": "201006",
+    "YYYY_MM_DD": "2010-06-01",
+    "applications": 6354,
+    "publications": 7231
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072010",
+    "YYYYMM": "201007",
+    "YYYY_MM_DD": "2010-07-01",
+    "applications": 5857,
+    "publications": 5956
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082010",
+    "YYYYMM": "201008",
+    "YYYY_MM_DD": "2010-08-01",
+    "applications": 6093,
+    "publications": 5829
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092010",
+    "YYYYMM": "201009",
+    "YYYY_MM_DD": "2010-09-01",
+    "applications": 6236,
+    "publications": 6927
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102010",
+    "YYYYMM": "201010",
+    "YYYY_MM_DD": "2010-10-01",
+    "applications": 5554,
+    "publications": 5762
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112010",
+    "YYYYMM": "201011",
+    "YYYY_MM_DD": "2010-11-01",
+    "applications": 6699,
+    "publications": 5788
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122010",
+    "YYYYMM": "201012",
+    "YYYY_MM_DD": "2010-12-01",
+    "applications": 8238,
+    "publications": 6755
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012011",
+    "YYYYMM": "201101",
+    "YYYY_MM_DD": "2011-01-01",
+    "applications": 4971,
+    "publications": 5814
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022011",
+    "YYYYMM": "201102",
+    "YYYY_MM_DD": "2011-02-01",
+    "applications": 4217,
+    "publications": 5533
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032011",
+    "YYYYMM": "201103",
+    "YYYY_MM_DD": "2011-03-01",
+    "applications": 7202,
+    "publications": 6504
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042011",
+    "YYYYMM": "201104",
+    "YYYY_MM_DD": "2011-04-01",
+    "applications": 6379,
+    "publications": 6781
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052011",
+    "YYYYMM": "201105",
+    "YYYY_MM_DD": "2011-05-01",
+    "applications": 6663,
+    "publications": 6577
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062011",
+    "YYYYMM": "201106",
+    "YYYY_MM_DD": "2011-06-01",
+    "applications": 7089,
+    "publications": 7343
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072011",
+    "YYYYMM": "201107",
+    "YYYY_MM_DD": "2011-07-01",
+    "applications": 6332,
+    "publications": 5393
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082011",
+    "YYYYMM": "201108",
+    "YYYY_MM_DD": "2011-08-01",
+    "applications": 6796,
+    "publications": 6858
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092011",
+    "YYYYMM": "201109",
+    "YYYY_MM_DD": "2011-09-01",
+    "applications": 7747,
+    "publications": 6226
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102011",
+    "YYYYMM": "201110",
+    "YYYY_MM_DD": "2011-10-01",
+    "applications": 6706,
+    "publications": 5635
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112011",
+    "YYYYMM": "201111",
+    "YYYY_MM_DD": "2011-11-01",
+    "applications": 8082,
+    "publications": 7003
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122011",
+    "YYYYMM": "201112",
+    "YYYY_MM_DD": "2011-12-01",
+    "applications": 9746,
+    "publications": 6918
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012012",
+    "YYYYMM": "201201",
+    "YYYY_MM_DD": "2012-01-01",
+    "applications": 5205,
+    "publications": 6475
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022012",
+    "YYYYMM": "201202",
+    "YYYY_MM_DD": "2012-02-01",
+    "applications": 5411,
+    "publications": 6113
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032012",
+    "YYYYMM": "201203",
+    "YYYY_MM_DD": "2012-03-01",
+    "applications": 7597,
+    "publications": 6301
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042012",
+    "YYYYMM": "201204",
+    "YYYY_MM_DD": "2012-04-01",
+    "applications": 6399,
+    "publications": 6326
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052012",
+    "YYYYMM": "201205",
+    "YYYY_MM_DD": "2012-05-01",
+    "applications": 7449,
+    "publications": 8661
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062012",
+    "YYYYMM": "201206",
+    "YYYY_MM_DD": "2012-06-01",
+    "applications": 7730,
+    "publications": 6968
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072012",
+    "YYYYMM": "201207",
+    "YYYY_MM_DD": "2012-07-01",
+    "applications": 7023,
+    "publications": 9032
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082012",
+    "YYYYMM": "201208",
+    "YYYY_MM_DD": "2012-08-01",
+    "applications": 7255,
+    "publications": 7194
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092012",
+    "YYYYMM": "201209",
+    "YYYY_MM_DD": "2012-09-01",
+    "applications": 8173,
+    "publications": 6618
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102012",
+    "YYYYMM": "201210",
+    "YYYY_MM_DD": "2012-10-01",
+    "applications": 7303,
+    "publications": 8445
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112012",
+    "YYYYMM": "201211",
+    "YYYY_MM_DD": "2012-11-01",
+    "applications": 9026,
+    "publications": 7493
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122012",
+    "YYYYMM": "201212",
+    "YYYY_MM_DD": "2012-12-01",
+    "applications": 10286,
+    "publications": 7349
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012013",
+    "YYYYMM": "201301",
+    "YYYY_MM_DD": "2013-01-01",
+    "applications": 6360,
+    "publications": 8730
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022013",
+    "YYYYMM": "201302",
+    "YYYY_MM_DD": "2013-02-01",
+    "applications": 5243,
+    "publications": 6307
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032013",
+    "YYYYMM": "201303",
+    "YYYY_MM_DD": "2013-03-01",
+    "applications": 7921,
+    "publications": 8256
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042013",
+    "YYYYMM": "201304",
+    "YYYY_MM_DD": "2013-04-01",
+    "applications": 7219,
+    "publications": 8107
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052013",
+    "YYYYMM": "201305",
+    "YYYY_MM_DD": "2013-05-01",
+    "applications": 7403,
+    "publications": 7889
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062013",
+    "YYYYMM": "201306",
+    "YYYY_MM_DD": "2013-06-01",
+    "applications": 7579,
+    "publications": 7884
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072013",
+    "YYYYMM": "201307",
+    "YYYY_MM_DD": "2013-07-01",
+    "applications": 8760,
+    "publications": 8105
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082013",
+    "YYYYMM": "201308",
+    "YYYY_MM_DD": "2013-08-01",
+    "applications": 7648,
+    "publications": 7485
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092013",
+    "YYYYMM": "201309",
+    "YYYY_MM_DD": "2013-09-01",
+    "applications": 8759,
+    "publications": 7277
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102013",
+    "YYYYMM": "201310",
+    "YYYY_MM_DD": "2013-10-01",
+    "applications": 7609,
+    "publications": 7758
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112013",
+    "YYYYMM": "201311",
+    "YYYY_MM_DD": "2013-11-01",
+    "applications": 8693,
+    "publications": 6625
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122013",
+    "YYYYMM": "201312",
+    "YYYY_MM_DD": "2013-12-01",
+    "applications": 11446,
+    "publications": 7650
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012014",
+    "YYYYMM": "201401",
+    "YYYY_MM_DD": "2014-01-01",
+    "applications": 6065,
+    "publications": 8078
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022014",
+    "YYYYMM": "201402",
+    "YYYY_MM_DD": "2014-02-01",
+    "applications": 5533,
+    "publications": 7266
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032014",
+    "YYYYMM": "201403",
+    "YYYY_MM_DD": "2014-03-01",
+    "applications": 9361,
+    "publications": 7727
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042014",
+    "YYYYMM": "201404",
+    "YYYY_MM_DD": "2014-04-01",
+    "applications": 7501,
+    "publications": 8611
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052014",
+    "YYYYMM": "201405",
+    "YYYY_MM_DD": "2014-05-01",
+    "applications": 7447,
+    "publications": 7944
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062014",
+    "YYYYMM": "201406",
+    "YYYY_MM_DD": "2014-06-01",
+    "applications": 8354,
+    "publications": 7351
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072014",
+    "YYYYMM": "201407",
+    "YYYY_MM_DD": "2014-07-01",
+    "applications": 8371,
+    "publications": 8227
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082014",
+    "YYYYMM": "201408",
+    "YYYY_MM_DD": "2014-08-01",
+    "applications": 7313,
+    "publications": 6659
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092014",
+    "YYYYMM": "201409",
+    "YYYY_MM_DD": "2014-09-01",
+    "applications": 8962,
+    "publications": 7376
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102014",
+    "YYYYMM": "201410",
+    "YYYY_MM_DD": "2014-10-01",
+    "applications": 8344,
+    "publications": 8055
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112014",
+    "YYYYMM": "201411",
+    "YYYY_MM_DD": "2014-11-01",
+    "applications": 9148,
+    "publications": 6634
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122014",
+    "YYYYMM": "201412",
+    "YYYY_MM_DD": "2014-12-01",
+    "applications": 11550,
+    "publications": 9739
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012015",
+    "YYYYMM": "201501",
+    "YYYY_MM_DD": "2015-01-01",
+    "applications": 7212,
+    "publications": 7930
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022015",
+    "YYYYMM": "201502",
+    "YYYY_MM_DD": "2015-02-01",
+    "applications": 6292,
+    "publications": 7140
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032015",
+    "YYYYMM": "201503",
+    "YYYY_MM_DD": "2015-03-01",
+    "applications": 9508,
+    "publications": 8467
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042015",
+    "YYYYMM": "201504",
+    "YYYY_MM_DD": "2015-04-01",
+    "applications": 9270,
+    "publications": 9460
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052015",
+    "YYYYMM": "201505",
+    "YYYY_MM_DD": "2015-05-01",
+    "applications": 8837,
+    "publications": 7412
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062015",
+    "YYYYMM": "201506",
+    "YYYY_MM_DD": "2015-06-01",
+    "applications": 10299,
+    "publications": 8592
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072015",
+    "YYYYMM": "201507",
+    "YYYY_MM_DD": "2015-07-01",
+    "applications": 10230,
+    "publications": 9467
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082015",
+    "YYYYMM": "201508",
+    "YYYY_MM_DD": "2015-08-01",
+    "applications": 9627,
+    "publications": 7896
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092015",
+    "YYYYMM": "201509",
+    "YYYY_MM_DD": "2015-09-01",
+    "applications": 10818,
+    "publications": 9077
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102015",
+    "YYYYMM": "201510",
+    "YYYY_MM_DD": "2015-10-01",
+    "applications": 10027,
+    "publications": 8007
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112015",
+    "YYYYMM": "201511",
+    "YYYY_MM_DD": "2015-11-01",
+    "applications": 11160,
+    "publications": 9799
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122015",
+    "YYYYMM": "201512",
+    "YYYY_MM_DD": "2015-12-01",
+    "applications": 13982,
+    "publications": 11241
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012016",
+    "YYYYMM": "201601",
+    "YYYY_MM_DD": "2016-01-01",
+    "applications": 8200,
+    "publications": 9170
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022016",
+    "YYYYMM": "201602",
+    "YYYY_MM_DD": "2016-02-01",
+    "applications": 7317,
+    "publications": 7874
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032016",
+    "YYYYMM": "201603",
+    "YYYY_MM_DD": "2016-03-01",
+    "applications": 11346,
+    "publications": 10453
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042016",
+    "YYYYMM": "201604",
+    "YYYY_MM_DD": "2016-04-01",
+    "applications": 10367,
+    "publications": 9351
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052016",
+    "YYYYMM": "201605",
+    "YYYY_MM_DD": "2016-05-01",
+    "applications": 11657,
+    "publications": 9693
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062016",
+    "YYYYMM": "201606",
+    "YYYY_MM_DD": "2016-06-01",
+    "applications": 13483,
+    "publications": 11403
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072016",
+    "YYYYMM": "201607",
+    "YYYY_MM_DD": "2016-07-01",
+    "applications": 11793,
+    "publications": 9184
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082016",
+    "YYYYMM": "201608",
+    "YYYY_MM_DD": "2016-08-01",
+    "applications": 15938,
+    "publications": 13255
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092016",
+    "YYYYMM": "201609",
+    "YYYY_MM_DD": "2016-09-01",
+    "applications": 8896,
+    "publications": 9411
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102016",
+    "YYYYMM": "201610",
+    "YYYY_MM_DD": "2016-10-01",
+    "applications": 9274,
+    "publications": 8592
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112016",
+    "YYYYMM": "201611",
+    "YYYY_MM_DD": "2016-11-01",
+    "applications": 11806,
+    "publications": 10792
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122016",
+    "YYYYMM": "201612",
+    "YYYY_MM_DD": "2016-12-01",
+    "applications": 15008,
+    "publications": 10872
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012017",
+    "YYYYMM": "201701",
+    "YYYY_MM_DD": "2017-01-01",
+    "applications": 8616,
+    "publications": 10128
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022017",
+    "YYYYMM": "201702",
+    "YYYY_MM_DD": "2017-02-01",
+    "applications": 7805,
+    "publications": 10476
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032017",
+    "YYYYMM": "201703",
+    "YYYY_MM_DD": "2017-03-01",
+    "applications": 11981,
+    "publications": 10897
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042017",
+    "YYYYMM": "201704",
+    "YYYY_MM_DD": "2017-04-01",
+    "applications": 10375,
+    "publications": 8808
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052017",
+    "YYYYMM": "201705",
+    "YYYY_MM_DD": "2017-05-01",
+    "applications": 11735,
+    "publications": 12826
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062017",
+    "YYYYMM": "201706",
+    "YYYY_MM_DD": "2017-06-01",
+    "applications": 13251,
+    "publications": 12006
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072017",
+    "YYYYMM": "201707",
+    "YYYY_MM_DD": "2017-07-01",
+    "applications": 11639,
+    "publications": 10084
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082017",
+    "YYYYMM": "201708",
+    "YYYY_MM_DD": "2017-08-01",
+    "applications": 12053,
+    "publications": 12241
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092017",
+    "YYYYMM": "201709",
+    "YYYY_MM_DD": "2017-09-01",
+    "applications": 12770,
+    "publications": 10884
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102017",
+    "YYYYMM": "201710",
+    "YYYY_MM_DD": "2017-10-01",
+    "applications": 11272,
+    "publications": 10147
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112017",
+    "YYYYMM": "201711",
+    "YYYY_MM_DD": "2017-11-01",
+    "applications": 14107,
+    "publications": 11587
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122017",
+    "YYYYMM": "201712",
+    "YYYY_MM_DD": "2017-12-01",
+    "applications": 17177,
+    "publications": 12665
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012018",
+    "YYYYMM": "201801",
+    "YYYY_MM_DD": "2018-01-01",
+    "applications": 10712,
+    "publications": 12842
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022018",
+    "YYYYMM": "201802",
+    "YYYY_MM_DD": "2018-02-01",
+    "applications": 8514,
+    "publications": 11019
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032018",
+    "YYYYMM": "201803",
+    "YYYY_MM_DD": "2018-03-01",
+    "applications": 11930,
+    "publications": 12555
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042018",
+    "YYYYMM": "201804",
+    "YYYY_MM_DD": "2018-04-01",
+    "applications": 11467,
+    "publications": 11883
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052018",
+    "YYYYMM": "201805",
+    "YYYY_MM_DD": "2018-05-01",
+    "applications": 12652,
+    "publications": 13703
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062018",
+    "YYYYMM": "201806",
+    "YYYY_MM_DD": "2018-06-01",
+    "applications": 13264,
+    "publications": 13198
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072018",
+    "YYYYMM": "201807",
+    "YYYY_MM_DD": "2018-07-01",
+    "applications": 11802,
+    "publications": 12110
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082018",
+    "YYYYMM": "201808",
+    "YYYY_MM_DD": "2018-08-01",
+    "applications": 12264,
+    "publications": 13014
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092018",
+    "YYYYMM": "201809",
+    "YYYY_MM_DD": "2018-09-01",
+    "applications": 11972,
+    "publications": 12341
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102018",
+    "YYYYMM": "201810",
+    "YYYY_MM_DD": "2018-10-01",
+    "applications": 11905,
+    "publications": 12848
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112018",
+    "YYYYMM": "201811",
+    "YYYY_MM_DD": "2018-11-01",
+    "applications": 12715,
+    "publications": 16280
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122018",
+    "YYYYMM": "201812",
+    "YYYY_MM_DD": "2018-12-01",
+    "applications": 14945,
+    "publications": 13828
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012019",
+    "YYYYMM": "201901",
+    "YYYY_MM_DD": "2019-01-01",
+    "applications": 9978,
+    "publications": 15195
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022019",
+    "YYYYMM": "201902",
+    "YYYY_MM_DD": "2019-02-01",
+    "applications": 6908,
+    "publications": 10958
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032019",
+    "YYYYMM": "201903",
+    "YYYY_MM_DD": "2019-03-01",
+    "applications": 11069,
+    "publications": 13070
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042019",
+    "YYYYMM": "201904",
+    "YYYY_MM_DD": "2019-04-01",
+    "applications": 11193,
+    "publications": 12484
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052019",
+    "YYYYMM": "201905",
+    "YYYY_MM_DD": "2019-05-01",
+    "applications": 11354,
+    "publications": 12854
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062019",
+    "YYYYMM": "201906",
+    "YYYY_MM_DD": "2019-06-01",
+    "applications": 11208,
+    "publications": 12305
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072019",
+    "YYYYMM": "201907",
+    "YYYY_MM_DD": "2019-07-01",
+    "applications": 12125,
+    "publications": 12495
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082019",
+    "YYYYMM": "201908",
+    "YYYY_MM_DD": "2019-08-01",
+    "applications": 11224,
+    "publications": 12482
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092019",
+    "YYYYMM": "201909",
+    "YYYY_MM_DD": "2019-09-01",
+    "applications": 11671,
+    "publications": 10626
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102019",
+    "YYYYMM": "201910",
+    "YYYY_MM_DD": "2019-10-01",
+    "applications": 11473,
+    "publications": 12239
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112019",
+    "YYYYMM": "201911",
+    "YYYY_MM_DD": "2019-11-01",
+    "applications": 13344,
+    "publications": 12320
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122019",
+    "YYYYMM": "201912",
+    "YYYY_MM_DD": "2019-12-01",
+    "applications": 18148,
+    "publications": 12740
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012020",
+    "YYYYMM": "202001",
+    "YYYY_MM_DD": "2020-01-01",
+    "applications": 7583,
+    "publications": 11499
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022020",
+    "YYYYMM": "202002",
+    "YYYY_MM_DD": "2020-02-01",
+    "applications": 6597,
+    "publications": 10961
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032020",
+    "YYYYMM": "202003",
+    "YYYY_MM_DD": "2020-03-01",
+    "applications": 13148,
+    "publications": 11010
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042020",
+    "YYYYMM": "202004",
+    "YYYY_MM_DD": "2020-04-01",
+    "applications": 13026,
+    "publications": 16115
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052020",
+    "YYYYMM": "202005",
+    "YYYY_MM_DD": "2020-05-01",
+    "applications": 12008,
+    "publications": 14141
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062020",
+    "YYYYMM": "202006",
+    "YYYY_MM_DD": "2020-06-01",
+    "applications": 13161,
+    "publications": 17027
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072020",
+    "YYYYMM": "202007",
+    "YYYY_MM_DD": "2020-07-01",
+    "applications": 12569,
+    "publications": 16219
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082020",
+    "YYYYMM": "202008",
+    "YYYY_MM_DD": "2020-08-01",
+    "applications": 10974,
+    "publications": 14816
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092020",
+    "YYYYMM": "202009",
+    "YYYY_MM_DD": "2020-09-01",
+    "applications": 13308,
+    "publications": 15159
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102020",
+    "YYYYMM": "202010",
+    "YYYY_MM_DD": "2020-10-01",
+    "applications": 10144,
+    "publications": 16105
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112020",
+    "YYYYMM": "202011",
+    "YYYY_MM_DD": "2020-11-01",
+    "applications": 13205,
+    "publications": 15183
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122020",
+    "YYYYMM": "202012",
+    "YYYY_MM_DD": "2020-12-01",
+    "applications": 16410,
+    "publications": 17519
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012021",
+    "YYYYMM": "202101",
+    "YYYY_MM_DD": "2021-01-01",
+    "applications": 7987,
+    "publications": 14352
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022021",
+    "YYYYMM": "202102",
+    "YYYY_MM_DD": "2021-02-01",
+    "applications": 5666,
+    "publications": 15045
+  },
+  {
+    "Month": 3,
+    "MonthName": "March",
+    "MMYYYY": "032021",
+    "YYYYMM": "202103",
+    "YYYY_MM_DD": "2021-03-01",
+    "applications": 7313,
+    "publications": 17910
+  },
+  {
+    "Month": 4,
+    "MonthName": "April",
+    "MMYYYY": "042021",
+    "YYYYMM": "202104",
+    "YYYY_MM_DD": "2021-04-01",
+    "applications": 7861,
+    "publications": 17717
+  },
+  {
+    "Month": 5,
+    "MonthName": "May",
+    "MMYYYY": "052021",
+    "YYYYMM": "202105",
+    "YYYY_MM_DD": "2021-05-01",
+    "applications": 6358,
+    "publications": 15218
+  },
+  {
+    "Month": 6,
+    "MonthName": "June",
+    "MMYYYY": "062021",
+    "YYYYMM": "202106",
+    "YYYY_MM_DD": "2021-06-01",
+    "applications": 7674,
+    "publications": 19968
+  },
+  {
+    "Month": 7,
+    "MonthName": "July",
+    "MMYYYY": "072021",
+    "YYYYMM": "202107",
+    "YYYY_MM_DD": "2021-07-01",
+    "applications": 6309,
+    "publications": 17567
+  },
+  {
+    "Month": 8,
+    "MonthName": "August",
+    "MMYYYY": "082021",
+    "YYYYMM": "202108",
+    "YYYY_MM_DD": "2021-08-01",
+    "applications": 5238,
+    "publications": 17562
+  },
+  {
+    "Month": 9,
+    "MonthName": "September",
+    "MMYYYY": "092021",
+    "YYYYMM": "202109",
+    "YYYY_MM_DD": "2021-09-01",
+    "applications": 3905,
+    "publications": 16199
+  },
+  {
+    "Month": 10,
+    "MonthName": "October",
+    "MMYYYY": "102021",
+    "YYYYMM": "202110",
+    "YYYY_MM_DD": "2021-10-01",
+    "applications": 1748,
+    "publications": 16279
+  },
+  {
+    "Month": 11,
+    "MonthName": "November",
+    "MMYYYY": "112021",
+    "YYYYMM": "202111",
+    "YYYY_MM_DD": "2021-11-01",
+    "applications": 1052,
+    "publications": 21254
+  },
+  {
+    "Month": 12,
+    "MonthName": "December",
+    "MMYYYY": "122021",
+    "YYYYMM": "202112",
+    "YYYY_MM_DD": "2021-12-01",
+    "applications": 189,
+    "publications": 20322
+  },
+  {
+    "Month": 1,
+    "MonthName": "January",
+    "MMYYYY": "012022",
+    "YYYYMM": "202201",
+    "YYYY_MM_DD": "2022-01-01",
+    "applications": 12,
+    "publications": 14039
+  },
+  {
+    "Month": 2,
+    "MonthName": "February",
+    "MMYYYY": "022022",
+    "YYYYMM": "202202",
+    "YYYY_MM_DD": "2022-02-01",
+    "applications": 0,
+    "publications": 1786
+  }
+]

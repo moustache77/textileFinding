@@ -1,0 +1,476 @@
+{
+  "ThisWeek": {
+    "sentiment_current": 0.62,
+    "sentiment_difference": 0.12,
+    "topics_discussed": 99,
+    "acquisition_count": 200,
+    "articles_analysed": 1008
+  },
+  "TrendingTopics": [
+    {
+      "topic": "Recycling",
+      "count": 3
+    },
+    {
+      "topic": "Yarn",
+      "count": 3
+    },
+    {
+      "topic": "European Union",
+      "count": 2
+    },
+    {
+      "topic": "Hewlett-Packard",
+      "count": 2
+    },
+    {
+      "topic": "Inkjet printer",
+      "count": 2
+    },
+    {
+      "topic": "Innovation",
+      "count": 2
+    },
+    {
+      "topic": "Italy",
+      "count": 2
+    },
+    {
+      "topic": "Knitting",
+      "count": 2
+    },
+    {
+      "topic": "Logistics",
+      "count": 2
+    },
+    {
+      "topic": "Milan",
+      "count": 2
+    }
+  ],
+  "Emotion": {
+    "Data": [
+      {
+        "yearmonth": "202103",
+        "formatteddate": "2021-03",
+        "emotionssadness": 0.235624,
+        "emotionjoy": 0.505103,
+        "emotionfear": 0.090382,
+        "emotiondisgust": 0.074015,
+        "emotionanger": 0.105516,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202104",
+        "formatteddate": "2021-04",
+        "emotionssadness": 0.242759,
+        "emotionjoy": 0.514021,
+        "emotionfear": 0.091468,
+        "emotiondisgust": 0.070328,
+        "emotionanger": 0.096517,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202105",
+        "formatteddate": "2021-05",
+        "emotionssadness": 0.233761,
+        "emotionjoy": 0.513983,
+        "emotionfear": 0.083198,
+        "emotiondisgust": 0.070089,
+        "emotionanger": 0.090552,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202106",
+        "formatteddate": "2021-06",
+        "emotionssadness": 0.229264,
+        "emotionjoy": 0.521042,
+        "emotionfear": 0.090686,
+        "emotiondisgust": 0.071729,
+        "emotionanger": 0.097650,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202107",
+        "formatteddate": "2021-07",
+        "emotionssadness": 0.224217,
+        "emotionjoy": 0.503272,
+        "emotionfear": 0.096280,
+        "emotiondisgust": 0.073751,
+        "emotionanger": 0.094365,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202108",
+        "formatteddate": "2021-08",
+        "emotionssadness": 0.234552,
+        "emotionjoy": 0.494916,
+        "emotionfear": 0.099909,
+        "emotiondisgust": 0.073254,
+        "emotionanger": 0.098182,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202109",
+        "formatteddate": "2021-09",
+        "emotionssadness": 0.223563,
+        "emotionjoy": 0.512830,
+        "emotionfear": 0.091888,
+        "emotiondisgust": 0.076887,
+        "emotionanger": 0.101823,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202110",
+        "formatteddate": "2021-10",
+        "emotionssadness": 0.232098,
+        "emotionjoy": 0.511621,
+        "emotionfear": 0.099753,
+        "emotiondisgust": 0.070617,
+        "emotionanger": 0.093008,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202111",
+        "formatteddate": "2021-11",
+        "emotionssadness": 0.226027,
+        "emotionjoy": 0.495474,
+        "emotionfear": 0.103042,
+        "emotiondisgust": 0.073534,
+        "emotionanger": 0.096170,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202112",
+        "formatteddate": "2021-12",
+        "emotionssadness": 0.224643,
+        "emotionjoy": 0.493319,
+        "emotionfear": 0.107556,
+        "emotiondisgust": 0.075400,
+        "emotionanger": 0.098625,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202201",
+        "formatteddate": "2022-01",
+        "emotionssadness": 0.244214,
+        "emotionjoy": 0.506463,
+        "emotionfear": 0.113729,
+        "emotiondisgust": 0.064472,
+        "emotionanger": 0.109389,
+        "opacity": null
+      },
+      {
+        "yearmonth": "202202",
+        "formatteddate": "2022-02",
+        "emotionssadness": 0.295457,
+        "emotionjoy": 0.526778,
+        "emotionfear": 0.103212,
+        "emotiondisgust": 0.053162,
+        "emotionanger": 0.082586,
+        "opacity": "1"
+      }
+    ],
+    "JoyMin": 0.493319,
+    "JoyMax": 0.526778,
+    "SadnessMin": 0.223563,
+    "SadnessMax": 0.295457,
+    "FearMin": 0.083198,
+    "FearMax": 0.113729,
+    "DisgustMin": 0.053162,
+    "DisgustMax": 0.076887,
+    "AngerMin": 0.082586,
+    "AngerMax": 0.109389
+  },
+  "RecentAcquisitions": [
+    {
+      "acquisition_id": "49953333-25ef-4c4b-b816-922b7fc9c9ce",
+      "acquirer_comp_id": "4d28a2d6-faf7-4898-8f87-c692b9a06b7a",
+      "acquirer_name": "Pepkor",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Lojas Avenida",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1416981219/c4bxykn9urzucnmm4cvi.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "04713a53-02b9-499f-bcef-a528ea809dda",
+      "acquirer_comp_id": "5ba564bc-6625-4475-8353-2f15a540857a",
+      "acquirer_name": "Generali Group",
+      "acquiree_comp_id": null,
+      "acquiree_name": "La Médicale",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397190919/1c050e8946936bdda12a6208e16a0c65.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "4ed55ba6-179b-4b92-adf1-a6b3f976c27a",
+      "acquirer_comp_id": "c9a853c3-abef-41ef-95b4-9cacf4bdaf44",
+      "acquirer_name": "H.I.G. Capital",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Berardi Bullonerie",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1467752476/o6hkf5vaixpyn9wvj0an.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "e14f64dc-e7cc-4ed8-a770-39705788338c",
+      "acquirer_comp_id": "5db77a0a-a361-40e6-a56c-b2368102c753",
+      "acquirer_name": "HUB International",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Kornerstone",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397186828/2f2ff89b09e9228caecd446b6649d936.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "6bd0e4dd-ce76-4f2e-b4c6-3cd750279ca9",
+      "acquirer_comp_id": "7d774155-5345-4f87-a9bd-8edc2f065f24",
+      "acquirer_name": "Salesforce",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Atonit",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1488354350/yx91yyljvcuu5j8agjqq.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "4fa094ad-2c83-44a8-933f-3ec7bcd82e8c",
+      "acquirer_comp_id": "df4fb746-c843-48e1-a313-b6c0e350fed1",
+      "acquirer_name": "Associated British Foods",
+      "acquiree_comp_id": null,
+      "acquiree_name": "FYTEXIA",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397755083/8e9bc5ff3bc00fdc9ff941527edac7a2.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "18f4c5a9-58bd-4ed1-a941-67823434573f",
+      "acquirer_comp_id": "1de5a54b-8e31-4e3e-bfa6-e3d1fe9b0bdf",
+      "acquirer_name": "Thrive",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Preemo",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1481173858/m0xysdknrjcqcogbtboh.png",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "2fc77c0d-0549-4179-9467-84ea1c997004",
+      "acquirer_comp_id": "b90b1f6f-5ae0-4f75-8ae0-48f27f67f3e0",
+      "acquirer_name": "Altamont Capital Partners",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Bishop Lifting Products",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397178569/de9cb5ef883ae23d883674c25e713456.jpg",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "df4feff6-dd1c-4f9d-b96f-b7d93813fc81",
+      "acquirer_comp_id": "abfbbd35-5435-47b2-a075-a22e1e1804cb",
+      "acquirer_name": "Canva",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Flourish",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/yc9v9k1wnlf82njvxdxh",
+      "acquiree_logo_url": null
+    },
+    {
+      "acquisition_id": "e29a2b1b-3de2-4187-b54c-bc891b615580",
+      "acquirer_comp_id": "0f24cffc-e55a-49d7-9b7c-1617438bf8b1",
+      "acquirer_name": "ACCIONA",
+      "acquiree_comp_id": null,
+      "acquiree_name": "Eqinov",
+      "acquirer_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397185352/25a0d45b98970a1794ea55ffad18a576.gif",
+      "acquiree_logo_url": null
+    }
+  ],
+  "TrendingCompanies": [
+    {
+      "company": "Amazon",
+      "trendscore": 2100,
+      "comp_id": "5bbf17e9-d7db-4c92-828c-53bc878626f1",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/asi1glj5xbbn0cbnwg05"
+    },
+    {
+      "company": "Adidas",
+      "trendscore": 1453,
+      "comp_id": "bd0a1b1f-4d94-4ec3-82b6-360374c629ad",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/nkmockkfyvao3vn1euux"
+    },
+    {
+      "company": "Epson",
+      "trendscore": 1364,
+      "comp_id": "390ce76b-e5e5-4bb7-b739-f61473b99582",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1456173432/nhhm9hmxbuqynucp0qwy.png"
+    },
+    {
+      "company": "H&M",
+      "trendscore": 1342,
+      "comp_id": "24e5f42a-1366-4698-ae71-a8d5a24bf9aa",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397750641/49e1d00a9e41c47154515fca87952c89.png"
+    },
+    {
+      "company": "Nike",
+      "trendscore": 1188,
+      "comp_id": "3b44f1af-1b24-4e78-bc3c-d78282db3263",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/vug8l7qigeetpmbvjw8v"
+    },
+    {
+      "company": "Lenzing AG",
+      "trendscore": 1032,
+      "comp_id": "a479c304-efee-4aa7-9654-073b7ce6d7a3",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/nkwyr1ayyjpozzi2kjn7"
+    },
+    {
+      "company": "EFI",
+      "trendscore": 1008,
+      "comp_id": "3476b852-45c8-4b83-a26f-4c745935dc43",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1457324331/itpipvgnjzhfybmi7qti.gif"
+    },
+    {
+      "company": "WTiN",
+      "trendscore": 847,
+      "comp_id": "01c223d1-c2ba-415a-b868-da62ec61cf19",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/bhm6uztgbshlvhe8n5bq"
+    },
+    {
+      "company": "Shima Seiki",
+      "trendscore": 826,
+      "comp_id": "067c6110-96eb-4023-9dcb-b5656627b6f4",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/xrcw0n2tmcl2dq0ysujq"
+    },
+    {
+      "company": "Dupont",
+      "trendscore": 816,
+      "comp_id": "8f9d3a00-3329-482c-8398-e1e8a7e739d2",
+      "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/q3fk4huybeutodzgmhf7"
+    }
+  ],
+  "KeywordsBuzz": [],
+  "IndustrySentiment": [
+    {
+      "yearmonth": "202103",
+      "sentimentscore": 0.494083
+    },
+    {
+      "yearmonth": "202104",
+      "sentimentscore": 0.482524
+    },
+    {
+      "yearmonth": "202105",
+      "sentimentscore": 0.520960
+    },
+    {
+      "yearmonth": "202106",
+      "sentimentscore": 0.539927
+    },
+    {
+      "yearmonth": "202107",
+      "sentimentscore": 0.521495
+    },
+    {
+      "yearmonth": "202108",
+      "sentimentscore": 0.513434
+    },
+    {
+      "yearmonth": "202109",
+      "sentimentscore": 0.525460
+    },
+    {
+      "yearmonth": "202110",
+      "sentimentscore": 0.502973
+    },
+    {
+      "yearmonth": "202111",
+      "sentimentscore": 0.492457
+    },
+    {
+      "yearmonth": "202112",
+      "sentimentscore": 0.460476
+    },
+    {
+      "yearmonth": "202201",
+      "sentimentscore": 0.455200
+    },
+    {
+      "yearmonth": "202202",
+      "sentimentscore": 0.601742
+    }
+  ],
+  "RecentlyAddedCompanies": [
+    {
+      "comp_id": "fc05502c-78c3-4126-b757-373a7ae72ed9",
+      "comp_name": "Nextiles",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/tcrenpllatryspugvnzt",
+      "comp_short_description": "Nextiles builds a fitness system that helps people exercise better, more safely, and more efficiently.",
+      "created_at": "/Date(1568122336000)/"
+    },
+    {
+      "comp_id": "1ae6b6dc-1d56-42af-b094-707246f25db0",
+      "comp_name": "Hexoskin (Carré Technologies)",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/wr6dqvv7nthxpjx5pqxy",
+      "comp_short_description": "Hexoskin develops smart clothing with the ability to deliver predictive health analytics for health, fitness, and wellness.",
+      "created_at": "/Date(1360559171000)/"
+    },
+    {
+      "comp_id": "e9f77c36-0689-4b8c-ad6c-b342d6234893",
+      "comp_name": "Texo Trade Services",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/w4bn8n2n8kgjaf3cfniz",
+      "comp_short_description": "Texo Trade Services produces XXL printable textiles (UV, Latex, solvents) dye-sub paper media, disperse inks, and associated hardware.",
+      "created_at": "/Date(1637172198000)/"
+    },
+    {
+      "comp_id": "ba9d9e2c-afd2-47be-81d1-35986705d6de",
+      "comp_name": "Brother USA",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/sxl4unczgpfiowe2ybkj",
+      "comp_short_description": "Brother is a premier provider of home, home office, and business products, industrial solutions that revolutionize the way live and work.",
+      "created_at": "/Date(1633304849000)/"
+    },
+    {
+      "comp_id": "326d585c-8d59-4bf6-bfdd-8f2baad9494d",
+      "comp_name": "EFI",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/gnigfbyk5ffbffjrxql3",
+      "comp_short_description": "EFI invents integrated digital technology for businesses & enterprises worldwide that helps them increase their profits and productivity",
+      "created_at": "/Date(1616750261000)/"
+    },
+    {
+      "comp_id": "acf53d6e-aab5-4c5b-b568-b61066c50394",
+      "comp_name": "Colorjet India",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/fyyegcxxkowqpih1wbhr",
+      "comp_short_description": "Colorjet India is a manufacturer of wide format digital inkjet printers that offers format printing solutions.",
+      "created_at": "/Date(1571424287000)/"
+    },
+    {
+      "comp_id": "a134843a-f60b-46a9-86d0-49ae9e5dc584",
+      "comp_name": "INDA",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/r7mwrcucj9tqrflffgxq",
+      "comp_short_description": "INDA promotes and supports the nonwovens/engineered fabrics industry helping members connect, learn, innovate, and develop their businesses.",
+      "created_at": "/Date(1635811757000)/"
+    },
+    {
+      "comp_id": "2c16c5b5-8494-4e5c-ad4a-a3b7fb5ac307",
+      "comp_name": "Teijin Frontier",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/vrnqqzakarernwa9mvip",
+      "comp_short_description": "Teijin Frontier offers textile materials and clothing products, industrial materials, industrial materials, and interior products.",
+      "created_at": "/Date(1575611474000)/"
+    },
+    {
+      "comp_id": "1310c07f-46a0-4344-8ae0-f86c5236a7d5",
+      "comp_name": "Suzhou Jwell",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/qvzwkkhapjgash0gvzvp",
+      "comp_short_description": "Suzhou Jwell is a manufacturer of plastic extrusion machinery.",
+      "created_at": "/Date(1626952605000)/"
+    },
+    {
+      "comp_id": "59a545e3-7661-4716-82d4-9b2a7e49fa10",
+      "comp_name": "Bravissimo",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/qzwrwdgrbjuzcrh1yqlo",
+      "comp_short_description": "Bravissimo is a stylish and supportive swimwear,nightwear with hiddensupport and clothing uniquely designed company located in Warwickshire.",
+      "created_at": "/Date(1574709521000)/"
+    },
+    {
+      "comp_id": "fd65c047-bb07-451b-b39d-99f1613fde21",
+      "comp_name": "Triumph International",
+      "comp_logo_url": null,
+      "comp_short_description": "TRIUMPH INTERNATIONAL specializes in wholesale and retail trade of underwear, swimwear, beach wear and leisure wear.",
+      "created_at": "/Date(1593417543000)/"
+    },
+    {
+      "comp_id": "25df7b5c-ace8-4aee-8ec1-b468ee36cef7",
+      "comp_name": "Youngone",
+      "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/xq76e1zlbwqiqeeyanzg",
+      "comp_short_description": "Youngone is a manufacturer of outerwear, shoes and bags.",
+      "created_at": "/Date(1600859092000)/"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "assignee": "惠普",
+    "C12m_count": -1648,
+    "all_count": 6904,
+    "order": 1
+  },
+  {
+    "assignee": "LG电子 INC",
+    "C12m_count": -1427,
+    "all_count": 21704,
+    "order": 2
+  },
+  {
+    "assignee": "海尔智能家居",
+    "C12m_count": -893,
+    "all_count": 1696,
+    "order": 3
+  },
+  {
+    "assignee": "东丽工业",
+    "C12m_count": -840,
+    "all_count": 10650,
+    "order": 4
+  },
+  {
+    "assignee": "通用电气",
+    "C12m_count": -767,
+    "all_count": 4997,
+    "order": 5
+  },
+  {
+    "assignee": "耐克 INC",
+    "C12m_count": -632,
+    "all_count": 3504,
+    "order": 6
+  },
+  {
+    "assignee": "耐克 INNOVATE CV",
+    "C12m_count": -603,
+    "all_count": 3891,
+    "order": 7
+  },
+  {
+    "assignee": "无锡小天鹅电气",
+    "C12m_count": -585,
+    "all_count": 860,
+    "order": 8
+  },
+  {
+    "assignee": "三星电子",
+    "C12m_count": -581,
+    "all_count": 8079,
+    "order": 9
+  },
+  {
+    "assignee": "格力电器 INC",
+    "C12m_count": -569,
+    "all_count": 825,
+    "order": 10
+  },
+  {
+    "assignee": "LG电子 CO LTD",
+    "C12m_count": -551,
+    "all_count": 5884,
+    "order": 11
+  },
+  {
+    "assignee": "东华大学",
+    "C12m_count": -509,
+    "all_count": 2368,
+    "order": 12
+  },
+  {
+    "assignee": "宝洁",
+    "C12m_count": -509,
+    "all_count": 11845,
+    "order": 13
+  },
+  {
+    "assignee": "精工爱普生",
+    "C12m_count": -498,
+    "all_count": 3766,
+    "order": 14
+  },
+  {
+    "assignee": "海尔集团",
+    "C12m_count": -475,
+    "all_count": 2766,
+    "order": 15
+  },
+  {
+    "assignee": "博世和西门子(BSH)",
+    "C12m_count": -458,
+    "all_count": 5305,
+    "order": 16,
+    "assignee_an": "博世和西门子家用电器集团(BSH)"
+  },
+  {
+    "assignee": "格力电器 CO LTD",
+    "C12m_count": -426,
+    "all_count": 1605,
+    "order": 17
+  },
+  {
+    "assignee": "3M",
+    "C12m_count": -424,
+    "all_count": 7336,
+    "order": 18
+  },
+  {
+    "assignee": "花王(Kao CORP)",
+    "C12m_count": -378,
+    "all_count": 5173,
+    "order": 19
+  },
+  {
+    "assignee": "海信 CO LTD",
+    "C12m_count": -347,
+    "all_count": 810,
+    "order": 20
+  }
+]

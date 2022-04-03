@@ -1,0 +1,507 @@
+{
+  "startYear": 2015,
+  "lastYear": 2021,
+  "data": [],
+  "newdata": [
+    {
+      "value2017": 617,
+      "value2021": 744,
+      "value2015": 396,
+      "value2020": 3188,
+      "topic": "Present",
+      "value2016": 454,
+      "value2019": 2216,
+      "value2018": 777
+    },
+    {
+      "value2017": 527,
+      "value2021": 285,
+      "value2015": 378,
+      "value2020": 1991,
+      "topic": "Laundry",
+      "value2016": 408,
+      "value2019": 1250,
+      "value2018": 663
+    },
+    {
+      "value2017": 306,
+      "value2021": 312,
+      "value2015": 235,
+      "value2020": 2223,
+      "topic": "Water",
+      "value2016": 269,
+      "value2019": 1331,
+      "value2018": 369
+    },
+    {
+      "value2017": 329,
+      "value2021": 317,
+      "value2015": 216,
+      "value2020": 1986,
+      "topic": "Heat",
+      "value2016": 292,
+      "value2019": 1204,
+      "value2018": 397
+    },
+    {
+      "value2017": 345,
+      "value2021": 392,
+      "value2015": 204,
+      "value2020": 3387,
+      "topic": "Fiber",
+      "value2016": 265,
+      "value2019": 2011,
+      "value2018": 361
+    },
+    {
+      "value2017": 286,
+      "value2021": 294,
+      "value2015": 170,
+      "value2020": 1641,
+      "topic": "Yarn",
+      "value2016": 210,
+      "value2019": 1201,
+      "value2018": 352
+    },
+    {
+      "value2017": 313,
+      "value2021": 350,
+      "value2015": 168,
+      "value2020": 1437,
+      "topic": "Time",
+      "value2016": 225,
+      "value2019": 992,
+      "value2018": 338
+    },
+    {
+      "value2017": 270,
+      "value2021": 256,
+      "value2015": 161,
+      "value2020": 1579,
+      "topic": "Thermodynamics",
+      "value2016": 206,
+      "value2019": 995,
+      "value2018": 344
+    },
+    {
+      "value2017": 214,
+      "value2021": 152,
+      "value2015": 160,
+      "value2020": 1521,
+      "topic": "Washing machine",
+      "value2016": 149,
+      "value2019": 813,
+      "value2018": 224
+    },
+    {
+      "value2017": 258,
+      "value2021": 348,
+      "value2015": 156,
+      "value2020": 2044,
+      "topic": "Paper",
+      "value2016": 194,
+      "value2019": 1262,
+      "value2018": 282
+    },
+    {
+      "value2017": 245,
+      "value2021": 200,
+      "value2015": 152,
+      "value2020": 1131,
+      "topic": "Energy",
+      "value2016": 176,
+      "value2019": 780,
+      "value2018": 247
+    },
+    {
+      "value2017": 292,
+      "value2021": 380,
+      "value2015": 149,
+      "value2020": 3721,
+      "topic": "Polymer",
+      "value2016": 199,
+      "value2019": 2004,
+      "value2018": 343
+    },
+    {
+      "value2017": 218,
+      "value2021": 214,
+      "value2015": 148,
+      "value2020": 1230,
+      "topic": "Weaving",
+      "value2016": 183,
+      "value2019": 859,
+      "value2018": 248
+    },
+    {
+      "value2017": 227,
+      "value2021": 268,
+      "value2015": 144,
+      "value2020": 2228,
+      "topic": "Temperature",
+      "value2016": 214,
+      "value2019": 1319,
+      "value2018": 342
+    },
+    {
+      "value2017": 322,
+      "value2021": 339,
+      "value2015": 143,
+      "value2020": 2049,
+      "topic": "Liquid",
+      "value2016": 231,
+      "value2019": 1244,
+      "value2018": 351
+    },
+    {
+      "value2017": 248,
+      "value2021": 239,
+      "value2015": 138,
+      "value2020": 1250,
+      "topic": "Harshad number",
+      "value2016": 157,
+      "value2019": 853,
+      "value2018": 263
+    },
+    {
+      "value2017": 224,
+      "value2021": 290,
+      "value2015": 135,
+      "value2020": 2413,
+      "topic": "Tensile strength",
+      "value2016": 183,
+      "value2019": 1438,
+      "value2018": 293
+    },
+    {
+      "value2017": 230,
+      "value2021": 201,
+      "value2015": 130,
+      "value2020": 2289,
+      "topic": "Laser",
+      "value2016": 168,
+      "value2019": 1153,
+      "value2018": 353
+    },
+    {
+      "value2017": 269,
+      "value2021": 362,
+      "value2015": 129,
+      "value2020": 2931,
+      "topic": "Oxygen",
+      "value2016": 196,
+      "value2019": 1660,
+      "value2018": 359
+    },
+    {
+      "value2017": 190,
+      "value2021": 224,
+      "value2015": 128,
+      "value2020": 1446,
+      "topic": "Aramid",
+      "value2016": 167,
+      "value2019": 914,
+      "value2018": 250
+    },
+    {
+      "value2017": 210,
+      "value2021": 222,
+      "value2015": 126,
+      "value2020": 1577,
+      "topic": "Nylon",
+      "value2016": 165,
+      "value2019": 969,
+      "value2018": 271
+    },
+    {
+      "value2017": 371,
+      "value2021": 398,
+      "value2015": 125,
+      "value2020": 1529,
+      "topic": "Object-oriented programming",
+      "value2016": 230,
+      "value2019": 1253,
+      "value2018": 548
+    },
+    {
+      "value2017": 231,
+      "value2021": 275,
+      "value2015": 115,
+      "value2020": 2106,
+      "topic": "Carbon",
+      "value2016": 187,
+      "value2019": 1282,
+      "value2018": 257
+    },
+    {
+      "value2017": 240,
+      "value2021": 163,
+      "value2015": 110,
+      "value2020": 2360,
+      "topic": "Selective laser sintering",
+      "value2016": 134,
+      "value2019": 1176,
+      "value2018": 279
+    },
+    {
+      "value2017": 160,
+      "value2021": 190,
+      "value2015": 108,
+      "value2020": 1572,
+      "topic": "Chemistry",
+      "value2016": 131,
+      "value2019": 970,
+      "value2018": 182
+    },
+    {
+      "value2017": 166,
+      "value2021": 155,
+      "value2015": 108,
+      "value2020": 1242,
+      "topic": "Rotation",
+      "value2016": 120,
+      "value2019": 686,
+      "value2018": 218
+    },
+    {
+      "value2017": 246,
+      "value2021": 250,
+      "value2015": 106,
+      "value2020": 1045,
+      "topic": "Method acting",
+      "value2016": 155,
+      "value2019": 735,
+      "value2018": 311
+    },
+    {
+      "value2017": 174,
+      "value2021": 206,
+      "value2015": 104,
+      "value2020": 1794,
+      "topic": "Cellulose",
+      "value2016": 130,
+      "value2019": 993,
+      "value2018": 174
+    },
+    {
+      "value2017": 262,
+      "value2021": 265,
+      "value2015": 101,
+      "value2020": 1554,
+      "topic": "Materials science",
+      "value2016": 157,
+      "value2019": 918,
+      "value2018": 307
+    },
+    {
+      "value2017": 150,
+      "value2021": 171,
+      "value2015": 97,
+      "value2020": 1173,
+      "topic": "Hydrogen",
+      "value2016": 124,
+      "value2019": 695,
+      "value2018": 175
+    },
+    {
+      "value2017": 139,
+      "value2021": 160,
+      "value2015": 95,
+      "value2020": 1273,
+      "topic": "Fibers",
+      "value2016": 104,
+      "value2019": 748,
+      "value2018": 157
+    },
+    {
+      "value2017": 154,
+      "value2021": 190,
+      "value2015": 95,
+      "value2020": 1232,
+      "topic": "Dietary fiber",
+      "value2016": 114,
+      "value2019": 705,
+      "value2018": 183
+    },
+    {
+      "value2017": 179,
+      "value2021": 236,
+      "value2015": 84,
+      "value2020": 1428,
+      "topic": "Light",
+      "value2016": 118,
+      "value2019": 798,
+      "value2018": 259
+    },
+    {
+      "value2017": 166,
+      "value2021": 171,
+      "value2015": 74,
+      "value2020": 1426,
+      "topic": "Knitting",
+      "value2016": 97,
+      "value2019": 900,
+      "value2018": 169
+    },
+    {
+      "value2017": 153,
+      "value2021": 174,
+      "value2015": 69,
+      "value2020": 1218,
+      "topic": "Layer",
+      "value2016": 121,
+      "value2019": 740,
+      "value2018": 208
+    },
+    {
+      "value2017": 102,
+      "value2021": 145,
+      "value2015": 68,
+      "value2020": 2959,
+      "topic": "Claim",
+      "value2016": 76,
+      "value2019": 1523,
+      "value2018": 124
+    },
+    {
+      "value2017": 184,
+      "value2021": 280,
+      "value2015": 67,
+      "value2020": 1023,
+      "topic": "Rapid manufacturing",
+      "value2016": 92,
+      "value2019": 695,
+      "value2018": 253
+    },
+    {
+      "value2017": 131,
+      "value2021": 95,
+      "value2015": 63,
+      "value2020": 1754,
+      "topic": "Additive manufacturing",
+      "value2016": 66,
+      "value2019": 846,
+      "value2018": 166
+    },
+    {
+      "value2017": 213,
+      "value2021": 362,
+      "value2015": 61,
+      "value2020": 2057,
+      "topic": "Inkjet printer",
+      "value2016": 132,
+      "value2019": 1231,
+      "value2018": 387
+    },
+    {
+      "value2017": 153,
+      "value2021": 210,
+      "value2015": 58,
+      "value2020": 2801,
+      "topic": "3D printing",
+      "value2016": 86,
+      "value2019": 1348,
+      "value2018": 242
+    },
+    {
+      "value2017": 93,
+      "value2021": 129,
+      "value2015": 57,
+      "value2020": 1423,
+      "topic": "Acid",
+      "value2016": 71,
+      "value2019": 823,
+      "value2018": 111
+    },
+    {
+      "value2017": 109,
+      "value2021": 139,
+      "value2015": 56,
+      "value2020": 2483,
+      "topic": "Novelty",
+      "value2016": 68,
+      "value2019": 1328,
+      "value2018": 127
+    },
+    {
+      "value2017": 110,
+      "value2021": 158,
+      "value2015": 52,
+      "value2020": 1492,
+      "topic": "Polymer chemistry",
+      "value2016": 49,
+      "value2019": 829,
+      "value2018": 145
+    },
+    {
+      "value2017": 97,
+      "value2021": 138,
+      "value2015": 49,
+      "value2020": 1358,
+      "topic": "Thermoplastic",
+      "value2016": 70,
+      "value2019": 750,
+      "value2018": 143
+    },
+    {
+      "value2017": 120,
+      "value2021": 167,
+      "value2015": 48,
+      "value2020": 1408,
+      "topic": "Composite material",
+      "value2016": 115,
+      "value2019": 826,
+      "value2018": 211
+    },
+    {
+      "value2017": 72,
+      "value2021": 134,
+      "value2015": 46,
+      "value2020": 1614,
+      "topic": "Acetic acid",
+      "value2016": 56,
+      "value2019": 865,
+      "value2018": 105
+    },
+    {
+      "value2017": 65,
+      "value2021": 83,
+      "value2015": 46,
+      "value2020": 1679,
+      "topic": "Patent",
+      "value2016": 38,
+      "value2019": 845,
+      "value2018": 79
+    },
+    {
+      "value2017": 81,
+      "value2021": 131,
+      "value2015": 45,
+      "value2020": 2493,
+      "topic": "Patent application",
+      "value2016": 53,
+      "value2019": 1302,
+      "value2018": 104
+    },
+    {
+      "value2017": 82,
+      "value2021": 78,
+      "value2015": 40,
+      "value2020": 1498,
+      "topic": "Rapid prototyping",
+      "value2016": 55,
+      "value2019": 743,
+      "value2018": 115
+    },
+    {
+      "value2017": 92,
+      "value2021": 146,
+      "value2015": 38,
+      "value2020": 1868,
+      "topic": "Carboxylic acid",
+      "value2016": 68,
+      "value2019": 1040,
+      "value2018": 104
+    }
+  ]
+}

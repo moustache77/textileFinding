@@ -1,0 +1,492 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:30:57 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:57979 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fd96c7055c0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8791)
+spawned uWSGI worker 1 (pid: 8792, cores: 2)
+spawned uWSGI http 1 (pid: 8793)
+--- no python application found, check your startup logs for errors ---
+[pid: 8792|app: -1|req: -1/1] 127.0.0.1 () {54 vars in 1316 bytes} [Sat Mar 12 14:31:41 2022] GET /api/chart/getBarData/ => generated 21 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8792|app: -1|req: -1/2] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:31:42 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 8793)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:34:03 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:61070 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fa635707c30
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8913)
+spawned uWSGI worker 1 (pid: 8914, cores: 2)
+spawned uWSGI http 1 (pid: 8915)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 8915)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:36:28 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:63442 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fb7f0a061d0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ModuleNotFoundError: No module named 'math'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 8965)
+spawned uWSGI worker 1 (pid: 8966, cores: 2)
+spawned uWSGI http 1 (pid: 8967)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/1] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:39 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/2] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:39 2022] GET /favicon.ico => generated 21 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/3] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:40 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/4] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:40 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/5] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:40 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/6] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:40 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/7] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:40 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/8] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:40 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/9] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:40 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/10] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:40 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/11] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:36:40 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/12] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:36:40 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/13] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:37:13 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 8966|app: -1|req: -1/14] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:37:13 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 8967)
+worker 1 buried after 2 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:38:15 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:65264 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fdfe8a06ac0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ModuleNotFoundError: No module named 'math'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 9023)
+spawned uWSGI worker 1 (pid: 9024, cores: 2)
+spawned uWSGI http 1 (pid: 9025)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/1] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:38:59 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/2] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:38:59 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/3] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:38:59 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/4] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:38:59 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/5] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:38:59 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9024|app: -1|req: -1/6] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:38:59 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 9025)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:39:28 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:50089 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fb5143069a0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 9057)
+spawned uWSGI worker 1 (pid: 9058, cores: 2)
+spawned uWSGI http 1 (pid: 9059)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 9059)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.18 (64bit) on [Sat Mar 12 14:40:17 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 03:50:34
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch/
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:50896 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fd7659055a0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 9078)
+spawned uWSGI worker 1 (pid: 9079, cores: 2)
+spawned uWSGI http 1 (pid: 9080)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/1] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:40:27 2022] GET /api/chart/getBarData/ => generated 21 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/2] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:40:27 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/3] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:40:28 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/4] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:40:28 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/5] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:40:28 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/6] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:40:28 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/7] 127.0.0.1 () {54 vars in 1323 bytes} [Sat Mar 12 14:40:28 2022] GET /api/chart/getBarData/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 9079|app: -1|req: -1/8] 127.0.0.1 () {50 vars in 1203 bytes} [Sat Mar 12 14:40:28 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 9080)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.20 (64bit) on [Sat Mar 12 14:55:12 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 06:51:32
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch/
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:49225 (port auto-assigned) fd 3
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7feef0f051f0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166656 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 9986)
+spawned uWSGI worker 1 (pid: 9987, cores: 2)
+spawned uWSGI http 1 (pid: 9988)
+SIGINT/SIGTERM received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 9988)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.16 (64bit) on [Sat Mar 12 15:06:30 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 07:04:09
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+dropping root privileges as early as possible
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:60399 (port auto-assigned) fd 3
+dropping root privileges after socket binding
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fed14705ed0
+dropping root privileges after plugin initialization
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+dropping root privileges after application loading
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 10974)
+spawned uWSGI worker 1 (pid: 10975, cores: 2)
+spawned uWSGI http 1 (pid: 10976)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 10976)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.16 (64bit) on [Sat Mar 12 15:07:35 2022] ***
+compiled with version: Apple LLVM 12.0.0 (clang-1200.0.32.2) on 12 March 2022 07:04:09
+os: Darwin-21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
+nodename: macbook-pro
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /Users/wmyxhxsy/Desktop/weavingSearch/weavingSearch
+writing pidfile to uwsgi.pid
+detected binary path: /Users/wmyxhxsy/opt/anaconda3/bin/uwsgi
+dropping root privileges as early as possible
+chdir() to /Users/wmyxhxsy/Desktop/weavingSearch
+your processes number limit is 1392
+your memory page size is 4096 bytes
+detected max file descriptor number: 2560
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 0.0.0.0:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:61469 (port auto-assigned) fd 3
+dropping root privileges after socket binding
+Python version: 3.8.5 (default, Sep  4 2020, 02:22:02)  [Clang 10.0.0 ]
+Python main interpreter initialized at 0x7fdd3d806ac0
+dropping root privileges after plugin initialization
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166624 bytes (162 KB) for 2 cores
+*** Operational MODE: threaded ***
+Traceback (most recent call last):
+  File "weavingSearch/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/__init__.py", line 1, in <module>
+    from django.utils.version import get_version
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/site-packages/django/utils/version.py", line 1, in <module>
+    import datetime
+  File "/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/datetime.py", line 8, in <module>
+    import math as _math
+ImportError: dlopen(/Users/wmyxhxsy/opt/anaconda3/lib/python3.8/lib-dynload/math.cpython-38-darwin.so, 0x0002): symbol not found in flat namespace '_PyExc_MemoryError'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+dropping root privileges after application loading
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 11006)
+spawned uWSGI worker 1 (pid: 11007, cores: 2)
+spawned uWSGI http 1 (pid: 11008)
+--- no python application found, check your startup logs for errors ---
+[pid: 11007|app: -1|req: -1/1] 127.0.0.1 () {38 vars in 704 bytes} [Sat Mar 12 15:07:57 2022] GET /admin/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 11007|app: -1|req: -1/2] 127.0.0.1 () {34 vars in 531 bytes} [Sat Mar 12 15:07:57 2022] GET /apple-touch-icon-precomposed.png => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 11007|app: -1|req: -1/3] 127.0.0.1 () {34 vars in 507 bytes} [Sat Mar 12 15:07:57 2022] GET /apple-touch-icon.png => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 11007|app: -1|req: -1/4] 127.0.0.1 () {38 vars in 663 bytes} [Sat Mar 12 15:07:57 2022] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 11007|app: -1|req: -1/5] 127.0.0.1 () {38 vars in 692 bytes} [Sat Mar 12 15:07:58 2022] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (1 switches on core 0)
+SIGINT/SIGQUIT received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 11008)
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
