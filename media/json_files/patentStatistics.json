@@ -276,19 +276,19 @@
   ],
   "TrendingCompanies": [
     {
-      "company": "Amazon",
+      "company": "亚马逊",
       "trendscore": 2100,
       "comp_id": "5bbf17e9-d7db-4c92-828c-53bc878626f1",
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/asi1glj5xbbn0cbnwg05"
     },
     {
-      "company": "Adidas",
+      "company": "阿迪达斯",
       "trendscore": 1453,
       "comp_id": "bd0a1b1f-4d94-4ec3-82b6-360374c629ad",
       "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/nkmockkfyvao3vn1euux"
     },
     {
-      "company": "Epson",
+      "company": "爱普生",
       "trendscore": 1364,
       "comp_id": "390ce76b-e5e5-4bb7-b739-f61473b99582",
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1456173432/nhhm9hmxbuqynucp0qwy.png"
@@ -300,13 +300,13 @@
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/v1397750641/49e1d00a9e41c47154515fca87952c89.png"
     },
     {
-      "company": "Nike",
+      "company": "耐克",
       "trendscore": 1188,
       "comp_id": "3b44f1af-1b24-4e78-bc3c-d78282db3263",
       "comp_logo_url": "https://res.cloudinary.com/crunchbase-production/image/upload/vug8l7qigeetpmbvjw8v"
     },
     {
-      "company": "Lenzing AG",
+      "company": "兰精公司",
       "trendscore": 1032,
       "comp_id": "a479c304-efee-4aa7-9654-073b7ce6d7a3",
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/nkwyr1ayyjpozzi2kjn7"
@@ -324,13 +324,13 @@
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/bhm6uztgbshlvhe8n5bq"
     },
     {
-      "company": "Shima Seiki",
+      "company": "日本岛精",
       "trendscore": 826,
       "comp_id": "067c6110-96eb-4023-9dcb-b5656627b6f4",
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/xrcw0n2tmcl2dq0ysujq"
     },
     {
-      "company": "Dupont",
+      "company": "杜邦",
       "trendscore": 816,
       "comp_id": "8f9d3a00-3329-482c-8398-e1e8a7e739d2",
       "comp_logo_url": "https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_jpg/q3fk4huybeutodzgmhf7"
